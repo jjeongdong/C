@@ -8,7 +8,6 @@
 int list[MAX_SIZE];
 int n;
 
-//
 void selection_sort(int list[], int n)
 {
 	int i, j, least, temp;
@@ -26,7 +25,6 @@ void selection_sort(int list[], int n)
 	}
 }
 
-//
 int main(void)
 {
 	int i;
